@@ -62,6 +62,12 @@ function Inicio() {
           >
             Ver compañeros
           </Link>
+          <Link
+            to="/posts"
+            className="rounded-full border border-neutral-300 bg-white px-6 py-3 text-sm font-semibold text-neutral-700 transition-colors hover:border-neutral-400 hover:text-neutral-900"
+          >
+            Ver publicaciones
+          </Link>
         </div>
       </section>
 
